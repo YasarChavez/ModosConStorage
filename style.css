@@ -1,0 +1,22 @@
+body {
+    background-color: #f2f2f2;
+}
+body.dark {
+    background-color: #222;
+    color: #fff;
+}
+p {
+    color: black;
+}
+p.dark {
+    color: #fff;
+}
+.contenedor {
+    width: 100%;
+    height: 100%;
+    margin-top: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
